@@ -6,9 +6,9 @@
 
 # 2020
 
-| Question  | Completed | Pass |
+| Question  |  | Comments |
 |---|---|---|
-| S1 | ✔️ | ✔️️️️ |
+| S1 | ✔️ | ️️ |
 | S2 | ✔️ |  |
 | S3 | ✔️ |  |
 | S4 |  |  |
